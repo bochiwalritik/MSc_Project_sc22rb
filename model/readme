@@ -1,0 +1,7 @@
+This concists of all the colab files for model created.
+1. ResNet-50
+2. CA-1/2/3 Dataset - 100
+3. CA-1/2/3 Dataset - 1000
+4. CA-1/2/3 Dataset - 5000
+
+Different files were created as running models in different files simultaneously was computationally less expensive
